@@ -1,9 +1,9 @@
-# jsjs
-  ![license](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)
-  [BSD 3.0](http://opensource.org/licenses/BSD-3-Clause)
+# Readme Generator
+  ![license](https://img.shields.io/badge/license-MIT-blue)
+  [MIT](http://opensource.org/licenses/MIT)
 
   ## Description
-  jsojde
+  To create a professional readme file
 
   ## Table of Contents
   - [Project Description](#Description)
@@ -15,21 +15,21 @@
   - [Questions](#Questions)
 
   ## Installation
-  jsiodj
+  inquirer
 
   ## Usage
-  jisod
+  runing node index.js on terminal
 
   ## License
-  BSD 3.0
+  MIT
 
   ## Contributing
-  jpsie
+  Everyone
 
   ## Test
-  ksokd
+  runing npm run test on terminal
 
   ## Questions
-  osjd
-  osd
+  sandraxmendoza@gmail.com
+  sandraxmm
 
